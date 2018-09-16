@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # Copyright 2009-2017 BHG http://bw.org/
 
+# v.1.1 a githubon
+
 def main():
     infile = open('lines.txt', 'rt')
     outfile = open('lines-copy.txt', 'wt')
